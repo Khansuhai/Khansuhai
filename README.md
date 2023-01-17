@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Urban Heat Island in Saharanpur (U.P)**
 
-- 🌱 I’m currently learning **Pyhton,Radar Remote Senisng, Google Earth Engine,SNAP, Q-GIS, ARC-GIS.**
+- 🌱 I’m currently learning **Python,Radar Remote Senisng, Google Earth Engine,SNAP, Q-GIS, ARC-GIS.**
 
 - 👯 I’m looking to collaborate on **Glacial Lake Outburst Flood Modeling.**
 
