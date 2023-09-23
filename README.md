@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khansuhai&" alt="khansuhai" /></p>
 
-
+## CONTRIBTUIONS
 ![snake gif](https://github.com/Khansuhai/Khansuhai/blob/output/github-contribution-grid-snake.gif)
