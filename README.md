@@ -1,7 +1,8 @@
                                              🌍🗺️⛈️🗻🔬🔭💻🔍📏📐🏕️❄️🏔️🌡️🌨️🌋🧭🌪️📡🌊
  
 <h1 align="center">Hi 👋, I'm Suhail Khan</h1>
-<h3 align="center">A Third Year B.Sc. (Hons.) Geography🗺️Student at Amity Institute of Geo-Informatics and Remote Sensing 📡. Studying Earth System Science, Cryosphere, Physical Oceanography & Atmospheric Science, Climate change, Geomorphology, and planetary system science with the Techniques of Remote Sensing 🛰and GIS</h3>
+<h3 align="center">A B.Sc. (Hons.) Geography🗺️ graduate from Amity Institute of Geo-Informatics and Remote Sensing 📡. 
+ Passionate about Earth System Science, Cryosphere, Physical Oceanography & Atmospheric Science, Climate change, Geomorphology, and planetary system science with the Techniques of Remote Sensing 🛰and GIS to achieve the goals of Sustainability.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khansuhai&label=Profile%20views&color=0e75b6&style=flat" alt="khansuhai" /> </p>
 
