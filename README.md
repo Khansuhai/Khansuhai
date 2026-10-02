@@ -1,6 +1,6 @@
-                                             🌍🗺️⛈️🗻🔬🔭💻🔍📏📐🏕️❄️🏔️🌡️🌨️🌋🧭🌪️📡🌊
+
  
-<h1 align="center">Hi 👋, I'm Suhail Khan</h1>
+<h1 align="center">Hi, I'm Suhail Khan</h1>
 <h3 align="center">A B.Sc. (Hons.) Geography🗺️ graduate from Amity Institute of Geo-Informatics and Remote Sensing 📡. 
  Passionate about Earth System Science, Cryosphere, Physical Oceanography & Atmospheric Science, Climate change, Geomorphology, and planetary system science with the Techniques of Remote Sensing 🛰and GIS to achieve the goals of Sustainability.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -8,17 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/suhailk49329508" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/suhailk49329508?logo=twitter&style=for-the-badge" alt="https://twitter.com/suhailk49329508" /></a> </p>
 
-- 🔭 I’m currently working on **Urban Heat Island in Saharanpur (U.P)**
-
-- 🌱 I’m currently learning **Python,Radar Remote Senisng, Google Earth Engine,SNAP, Q-GIS, ARC-GIS.**
-
-- 👯 I’m looking to collaborate on **Glacial Lake Outburst Flood Modeling.**
-
-- 💬 Ask me about **OCEANOGRAPHY,HYDROLOGY,CLIMATOLOGY,RS,GIS,ClOUD GEOGRAPHY.**
-
-- 📫 How to reach me **https://khansuhai.github.io/#about**
-
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
